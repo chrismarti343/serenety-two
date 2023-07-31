@@ -1,0 +1,5 @@
+Conclusiones:
+- Serenity es una herramienta util para poder visualizar repotes de los test automaticos que se realizan
+- Es mas facil encontrar errores gracias a los "Steps" de Serenity
+- Serenity es de facil uso e instalacion con Eclipse IDE
+- Serenity es facil de usar, con metodos reusables y facil de mantener
